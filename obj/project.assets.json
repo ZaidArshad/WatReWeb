@@ -214,11 +214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zaidy\\Desktop\\Projects\\C#\\WatReWeb\\WatReWeb.csproj",
+      "projectUniqueName": "C:\\inetpub\\wwwroot\\WatReWeb\\WatReWeb.csproj",
       "projectName": "WatReWeb",
-      "projectPath": "C:\\Users\\zaidy\\Desktop\\Projects\\C#\\WatReWeb\\WatReWeb.csproj",
+      "projectPath": "C:\\inetpub\\wwwroot\\WatReWeb\\WatReWeb.csproj",
       "packagesPath": "C:\\Users\\zaidy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zaidy\\Desktop\\Projects\\C#\\WatReWeb\\obj\\",
+      "outputPath": "C:\\inetpub\\wwwroot\\WatReWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
