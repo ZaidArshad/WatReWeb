@@ -6,6 +6,7 @@ namespace WatReWeb.Controllers;
 [ApiController]
 [Route("[controller]")]
 public class WaterReminderController : ControllerBase {
+
     [HttpGet]
     public ActionResult<bool> Get() {
         return WaterReminderService.getRemindingStatus();
