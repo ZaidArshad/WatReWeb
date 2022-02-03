@@ -21,11 +21,7 @@ Run using ```dotnet run```
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-<<<<<<< HEAD:Properties/launchSettings.json
-      "applicationUrl": "http://10.0.0.193:7238;http://localhost:5024",
-=======
-      "applicationUrl": "http://HOSTIP:7238;http://localhost:5024",
->>>>>>> 87e947f6cc5c9da5b86acf35af60b46115a09027:README.md
+      "applicationUrl": "HOSTIP;http://localhost:5024",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
