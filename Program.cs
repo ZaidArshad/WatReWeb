@@ -1,3 +1,5 @@
+using System.Diagnostics;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -8,6 +10,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+
+
+System.Diagnostics.Process.Start("python.exe", "Client/asynch.py");
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
