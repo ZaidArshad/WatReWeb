@@ -1,7 +1,8 @@
 # WatRe Web
+Project by Zaid Arshad. Developed in January 2022.
 
 ## Purpose
-I used the WatRe app to remind myself to drink water but I did not check my phone enough. This program runs a .NET server and REST API to enable communication between my phone and my computer. A python script gets a status from the REST API every 5 minutes to check if the notifcation was sent. Once a true repsonse is recieved, the script will play a sound to remind the user to drink water/check their phone for the notification.
+I used the WatRe app to remind myself to drink water but I did not check my phone enough. This program runs a .NET server and REST API to enable communication between my phone and my computer. A python script gets a status from the REST API every 5 minutes to check if the notification was sent. Once a true response is received, the script will play a sound to remind the user to drink water/check their phone for the notification.
 
 ## Sound Queue Conditioning
 As demonstrated by Ivan Pavlov's experiments with classical conditioning, I often feel a dry and thirsty mouth when the sound is heard.
